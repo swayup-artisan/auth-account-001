@@ -1,0 +1,14 @@
+.anchor-login a  {
+    color: rgb(239, 109, 9);
+    text-decoration: underline;
+}
+
+.low-form-part button {
+    background-color: rgb(231, 67, 2) !important;
+    stroke: none  !important;
+}
+.whole-form {
+    text-align: center;
+    justify-content: center;
+    padding-top: 3rem;
+}
